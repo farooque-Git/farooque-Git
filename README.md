@@ -7,7 +7,7 @@
 
 <hr/>
 
-<h3 align="center">I am a Web Developer who is passionate about writing code, solving problems, automating things and creating software. I adapt to any environment, and I always like to learn something new.</h3>
+<h3 align="center">I am Web Developer who is passionate about writing code, solving problems, automating things and creating software. I adapt to any environment, and I always like to learn something new.</h3>
 
 <img width="330" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
@@ -17,7 +17,7 @@
 - 🌱 Currently learning Backend: MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
-- Fun fact **Welcome yo Chaios**
+- Fun fact **Welcome yo CHIOS**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
