@@ -13,9 +13,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooque-git&label=Profile%20views&color=0e75b6&style=flat" alt="farooque-git" /> </p>
 
-- 🔭 I’m currently working on React Projects
-- 🌱 I’m currently learning JS Frameworks
-- 💬 Ask me about Everything related to JS, React
+- 🔭 I’m currently working on MERN stack ecommerce project.
+- 🌱 I’m currently learning Backend like MongoDB, Express.js.
+- 💬 Ask me about Everything related to JS, React.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
 - Fun fact **Welcome yo Chaios**
 <hr/>
