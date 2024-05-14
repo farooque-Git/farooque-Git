@@ -13,7 +13,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooque-git&label=Profile%20views&color=0e75b6&style=flat" alt="farooque-git" /> </p>
 
-- 🔭 Currently working on MERN stack ecommerce project.
+- 🔭 Currently working on MERN stack e-Commerce project.
 - 🌱 Currently learning Backend: MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
