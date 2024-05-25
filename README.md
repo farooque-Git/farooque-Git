@@ -17,7 +17,7 @@
 - 🌱 Currently learning Backend: Nodejs, MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
-- 📱 Reach me through <img width="48" height="48" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/> **+917004624454**
+- 📱 Reach me through <img width="10" height="10" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/> **+917004624454**
 - Fun fact **Welcome yo CHIOS**
 <hr/>
 <h3 align="left">Connect with me:</h3>
