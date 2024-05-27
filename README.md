@@ -9,8 +9,6 @@
 
 <h3 align="center">I am Web Developer who is passionate about writing code, solving problems, automating things and creating software. I adapt to any environment, and I always like to learn something new.</h3>
 
-<img width="330" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=farooque-git&label=Profile%20views&color=0e75b6&style=flat" alt="farooque-git" /> </p>
 
 - 🔭 Currently working on MERN stack e-Commerce project.
