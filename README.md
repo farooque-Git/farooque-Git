@@ -12,8 +12,6 @@
 <img width="330" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=farooque-git&label=Profile%20views&color=0e75b6&style=flat" alt="farooque-git" /> </p>
-
 - 🔭 Currently working on MERN stack e-Commerce project.
 - 🌱 Currently learning Backend: Nodejs, MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React.
