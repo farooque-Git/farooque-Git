@@ -9,7 +9,7 @@
 
 <h3 align="center">I am Web Developer who is passionate about writing code, solving problems, automating things and creating software. I adapt to any environment, and I always like to learn something new.</h3>
 
-<img width="300" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
+<img width="300" height ="200" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
 - 🔭 Currently working on MERN stack e-Commerce project.
