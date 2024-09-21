@@ -12,7 +12,7 @@
 <img width="300" height ="200" align="right" alt="Github" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" />
 
 
-- 🔭 Currently working on MERN stack e-Commerce project.
+- 🔭 Currently working on MERN stack TradEYE project.
 - ⏭️ Currently learning Nextjs - SSR + CSR.
 - 🌱 Currently learning Backend: Nodejs, MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React, RTK.
