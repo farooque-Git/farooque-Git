@@ -13,7 +13,7 @@
 
 
 - 🔭 Currently working on prompt engineering in AL/LLM .
-- ⏭️ Currently learning Nextjs - SSR + CSR.
+- ⏭️ Currently learning Prompt AI.
 - 🌱 Currently learning Backend: Nodejs, MongoDB, Express.js.
 - 💬 Ask me about Everything related to JS, React, RTK.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
