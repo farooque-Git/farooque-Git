@@ -18,7 +18,7 @@
 - 💬 Ask me about Everything related to JS, React, RTK.
 - 📫 How to reach me **farooque.reactjs@gmail.com**
 - 📱 Reach me through <img width="13" height="13" src="https://img.icons8.com/color/48/whatsapp--v1.png" alt="whatsapp--v1"/> **+917004624454**
-- Fun fact **Welcome yo CHAOS**
+- Fun fact **Welcome to CHAOS**
 <hr/>
 <h3 align="left">Connect with me:</h3>
 <p align="center">
